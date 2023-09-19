@@ -23,7 +23,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="62" height="62"/>&nbsp
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="matplotlib" alt="matplotlib" width="55" height="55"/>&nbsp
 </a> <p align="left"> <br>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="62" height="62"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="62" height="62"/>
   <img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo-200x120.png" title="clickHouse" alt="clickHouse" height="80"/>
 </a> <p align="left"> 
   <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" title="tableau" alt="tableau" width="50 " /></a>&nbsp
@@ -31,7 +31,6 @@
 </a> <p align="left">
   <img src="https://github.com/badges/shields/blob/master/logo/gitlab.svg" title="gitLab" alt="gitLab" width="50" /></a>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="airflow" alt="airflow"  height="45"/>&nbsp
-  
 </div>
 
 ---

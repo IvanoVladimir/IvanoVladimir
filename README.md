@@ -7,7 +7,7 @@
 <p>
 <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ir6ekkmdon8aaovslbkpixlqukhr7k0alepegs41&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="410" height="255"/>
 
-   I am a Product/Data Analyst <img src="https://media3.giphy.com/media/IElaFaL2bFelZyxSEE/giphy.gif?cid=ecf05e47c2i7ebovymbourx5m7m7val75zdj0ghkkh1we481&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="110"> from Russia, Krasnodar.
+   I am a Product/Data Analyst <!-- <img src="https://media3.giphy.com/media/IElaFaL2bFelZyxSEE/giphy.gif?cid=ecf05e47c2i7ebovymbourx5m7m7val75zdj0ghkkh1we481&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="110"> --> from Russia, Krasnodar.
 
 Originally from Siberia 🏡
 
@@ -23,6 +23,8 @@ Originally from Siberia 🏡
   [![Gmail Badge](https://img.shields.io/badge/-@Mail-red?style=flat&logo=Gmail&logoColor=yellow)](mailto:volody28ivanov@yandex.ru)
 
 </p>
+
+<br><br>
 
 ---
 

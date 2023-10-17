@@ -12,16 +12,17 @@
 Originally from Siberia 🏡
 
 
-- 📊 Love working with data.
+- Love working with data 📊
 
-- 📖 Like to study and learn new things.
+- Like to study and learn new things 📖
 
-<!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)]().
- -->
-
-- 📱 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanoVladimir28)</a> or 
+- How to contact me 📱: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanoVladimir28)</a> or 
   [![Gmail Badge](https://img.shields.io/badge/-@Mail-red?style=flat&logo=Gmail&logoColor=yellow)](mailto:volody28ivanov@yandex.ru)
 
+- All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
+
+<!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. 
+ -->
 </p>
 
 <br><br><br>

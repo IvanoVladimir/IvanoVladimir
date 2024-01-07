@@ -21,6 +21,8 @@ Originally from Siberia 🏡
 
 - All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
 
+ - Last projects are pinned to down bellow 📑
+
 <!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. 
  -->
 </p>

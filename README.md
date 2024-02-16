@@ -3,7 +3,8 @@
 Приветствую всех заинтересованных!
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1500&color=2775F7&center=true&vCenter=true&width=300&lines=Hello+there!+%F0%9F%8C%8E)](https://git.io/typing-svg)
  -->
- 
+<br> 
+
 </a></h1>
 
 <p>
@@ -23,13 +24,26 @@
 
 - Мои сертификаты : <!--All my--> [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
 
- - Последние проекты закреплены ниже <!--Last projects are pinned to down bellow--> 📑
+ - Информация о проектах закреплена ниже <!--Last projects are pinned to down bellow--> 📑👇
 
 <!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. 
  -->
 </p>
 
-<br><br><br> 
+<br><br>
+
+---
+
+<details>
+<summary> <kbd>Краткая информация о проектах</kbd> </summary><br>
+
+***Название*** | ***Описание***| ***Стек***
+:-:|:-:|:-: 
+[E-commerce](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook.
+[Mobile games](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook.
+[Marketing metrics](https://github.com/IvanoVladimir/karpov_courses/tree/main/SQL_project 'Ссылка на проект')| Оценка результатов двух прошедших рекламных компаний с помощью метрик, которые покажут эффективность превлечения пользователей в приложение по доставке продуктов.  | Python; Jupyter Notebook; SQL - PostgreSQL, Redash.
+
+</details>
 
 ---
 

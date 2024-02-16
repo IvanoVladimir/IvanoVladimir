@@ -22,7 +22,7 @@
 
 - Мои сертификаты : <!--All my--> [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
 
- - Информация о проектах закреплена ниже <!--Last projects are pinned to down bellow--> 📑👇
+ - Информация о проектах закреплена ниже <!--Last projects are pinned to down bellow--> 👇
 
 <!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. 
  -->
@@ -33,13 +33,13 @@
 ---
 
 <details>
-<summary> <kbd>Краткая информация о проектах</kbd> </summary><br>
+ <summary><kbd>Краткая информация о проектах 📑</kbd></summary><br>
 
 ***Название*** | ***Описание***| ***Стек***
 :-:|:-:|:-: 
-[E-commerce](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook.
-[Mobile games](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook.
-[Marketing metrics](https://github.com/IvanoVladimir/karpov_courses/tree/main/SQL_project 'Ссылка на проект')| Оценка результатов двух прошедших рекламных компаний с помощью метрик, которые покажут эффективность превлечения пользователей в приложение по доставке продуктов.  | Python; Jupyter Notebook; SQL - PostgreSQL, Redash.
+[E-commerce](https://github.com/IvanoVladimir/E-commerce 'Ссылка на проект') | Предварительное исследование и предобработка данных; анализ поведения пользователей и различные расчёты с товарами и заказами; когортный анализ и расчёт возвращаемости пользователей; RFM-сегментация пользователей для более детальной оценки аудитории | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook
+[MobileApp](https://github.com/IvanoVladimir/MobileApp 'Ссылка на проект') | Предварительное исследование и предобработка данных; когортный анализ и написание функции расчёта возвращаемости пользователей; проверка гипотез о статистической значимости разницы в ARPU и конверсии в покупку по результатам А/B-тестирования с помощью тестов(Хи-квадрат, T-test); предложение метрик при изменении механики приложения по результатам последнего тематического события | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook
+[Marketing metrics](https://github.com/IvanoVladimir/Marketing_metrics 'Ссылка на проект') | Оценка результатов двух прошедших рекламных компаний с помощью метрик; расчёт ROI, средней стоимости заказа, Retention, накопительного ARPPU и затрат на привлечение одного покупателя(CAC); построение визуализации и дашборда, выводы | Python; Jupyter Notebook; SQL - PostgreSQL, Redash
 
 </details>
 
@@ -80,7 +80,7 @@
 ---
 
 <details>
-  <summary><b>My Stats :shipit::</b></summary>
+  <summary><b>Статистика по репозиториям :shipit:</b></summary>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanoVladimir&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=IvanoVladimir&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanoVladimir&hide_border=true" alt="stats" /></a></a> |
 | - | - |

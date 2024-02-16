@@ -3,8 +3,6 @@
 Приветствую всех заинтересованных!
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1500&color=2775F7&center=true&vCenter=true&width=300&lines=Hello+there!+%F0%9F%8C%8E)](https://git.io/typing-svg)
  -->
-<br> 
-
 </a></h1>
 
 <p>

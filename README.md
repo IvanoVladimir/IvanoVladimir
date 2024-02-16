@@ -1,37 +1,39 @@
 <h1 align="center">
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1500&color=2775F7&center=true&vCenter=true&width=300&lines=Hello+there!+%F0%9F%8C%8E)](https://git.io/typing-svg)
-
+Приветствую всех заинтересованных!
+<!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1500&color=2775F7&center=true&vCenter=true&width=300&lines=Hello+there!+%F0%9F%8C%8E)](https://git.io/typing-svg)
+ -->
+ 
 </a></h1>
 
 <p>
 <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ir6ekkmdon8aaovslbkpixlqukhr7k0alepegs41&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="410" height="255"/>
 
-   I am a Product/Data Analyst <!-- <img src="https://media3.giphy.com/media/IElaFaL2bFelZyxSEE/giphy.gif?cid=ecf05e47c2i7ebovymbourx5m7m7val75zdj0ghkkh1we481&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="110"> --> from Russia, Krasnodar.
+   Я аналитик данных из России, Краснодар ☀️ <!-- I am a Product/Data Analyst from Russia, Krasnodar. -->
 
-Originally from Siberia 🏡
+Родом из Сибири 🏡 <!--Originally from Siberia--> 
 
 
-- Love working with data 📊
+- Люблю работать с данными 📊 <!--Love working with data--> 
 
-- Like to study and learn new things 📖
+- Люблю учиться и узнавать что-то новое 📖 <!--Like to study and learn new things--> 
 
-- How to contact me 📱: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanoVladimir28)</a>
+- Как связаться со мной <!--How to contact me--> 📱: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanoVladimir28)</a>
   [![Gmail Badge](https://img.shields.io/badge/-@Mail-red?style=flat&logo=Gmail&logoColor=yellow)](mailto:volody28ivanov@yandex.ru)
 
-- All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
+- Мои сертификаты : <!--All my--> [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=black)](https://disk.yandex.ru/d/8DKv170csv6AHw)
 
- - Last projects are pinned to down bellow 📑
+ - Последние проекты закреплены ниже <!--Last projects are pinned to down bellow--> 📑
 
 <!--  My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.ivanov6806) dashboards. 
  -->
 </p>
 
-<br><br><br>
+<br><br><br> 
 
 ---
 
-***<h3 align="left">Tools 🛠 & Technologies 💻:</h3>*** 
+***<h3 align="left"> Инструменты 🛠 и технологии 💻 <!--Tools  & Technologies--> :</h3>*** 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="50" height="50"/>&nbsp;

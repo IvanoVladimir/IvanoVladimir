@@ -49,31 +49,31 @@
 
 <div>
 
-  <a href='https://www.python.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" width="45" height="45"/></a>
+  <a href='https://www.python.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="45" height="45"/></a>
   <a href='https://www.anaconda.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="50" height="50"/></a>
-  <a href='https://jupyter.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="jupyter_notebook" alt="jupyter_notebook"  height="47"/></a>
-  <a href='https://pandas.pydata.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="50" height="50"/></a>
-  <a href='https://numpy.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="45" height="45"/></a>
-  <a href='https://scipy.org/'><img src="https://scipy.org/images/logo.svg" title="scipy" alt="scipy" width="45" height="45"/></a>
-  <a href='https://pingouin-stats.org/build/html/index.html'><img src="https://pingouin-stats.org/build/html/_static/pingouin.png" title="pingouin" alt="pingouin" width="45" height="45"/></a>
-  <a href='https://seaborn.pydata.org/'><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="50" height="50"/></a>
-  <a href='https://matplotlib.org/'><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="matplotlib" alt="matplotlib" width="45" height="45"/></a>
+  <a href='https://jupyter.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="jupyter_notebook" height="47"/></a>
+  <a href='https://pandas.pydata.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="pandas" width="50" height="50"/></a>
+  <a href='https://numpy.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="numpy" width="45" height="45"/></a>
+  <a href='https://scipy.org/'><img src="https://scipy.org/images/logo.svg" title="SciPy" alt="scipy" width="45" height="45"/></a>
+  <a href='https://pingouin-stats.org/build/html/index.html'><img src="https://pingouin-stats.org/build/html/_static/pingouin.png" title="Pingouin" alt="pingouin" width="45" height="45"/></a>
+  <a href='https://seaborn.pydata.org/'><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="50" height="50"/></a>
+  <a href='https://matplotlib.org/'><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="MatPlotLib" alt="matplotlib" width="45" height="45"/></a>
 
 </a> <p align="left">
 
-  <a href='https://www.postgresql.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="52" height="52"/></a>
-  <a href='https://clickhouse.com/'><img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo-200x120.png" title="clickHouse" alt="clickHouse" height="67"/></a>
+  <a href='https://www.postgresql.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="52" height="52"/></a>
+  <a href='https://clickhouse.com/'><img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo-200x120.png" title="ClickHouse" alt="clickHouse" height="67"/></a>
 
 </a> <p align="left"> 
 
-  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" title="tableau" alt="tableau" width="40 "/></a>
-  <a href='https://redash.io/'><img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="redash" alt="redash"  height="42"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" title="Tableau" alt="tableau" width="40 "/></a>
+  <a href='https://redash.io/'><img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="redash"  height="42"/></a>
 
 </a> <p align="left">
 
-  <a href='https://about.gitlab.com/'><img src="https://github.com/badges/shields/blob/master/logo/gitlab.svg" title="gitLab" alt="gitLab" width="35" /></a>
+  <a href='https://about.gitlab.com/'><img src="https://github.com/badges/shields/blob/master/logo/gitlab.svg" title="Gitlab" alt="gitLab" width="35" /></a>
   <a href='https://github.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/></a>
-  <a href='https://airflow.apache.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="airflow" alt="airflow"  height="32"/></a>
+  <a href='https://airflow.apache.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="Airflow" alt="airflow"  height="32"/></a>
 
 </div>
 

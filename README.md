@@ -40,6 +40,7 @@
 [Исследование пользователей E-commerce продукта](https://github.com/IvanoVladimir/E-commerce 'Ссылка на проект') | Считывание, исследование и предобработка данных; анализ поведения пользователей, различные расчёты с товарами и заказами; когортный анализ, расчёт возвращаемости пользователей; RFM-сегментация пользователей для более детальной оценки аудитории. | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook
 [Анализ нескольких аспектов мобильного приложения](https://github.com/IvanoVladimir/MobileApp 'Ссылка на проект') | Считываение, исследование и предобработка данных; когортный анализ, написание функции расчёта удержания пользователей; проверка гипотез о статистической значимости в разнице средней выручки между двумя группами, а также конверсии в покупку по результатам А/B-тестирования с помощью тестов(Хи-квадрат, T-test); генерирование метрик при изменении механики приложения по результатам последнего тематического события. | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook
 [Оценка маркетинговых кампаний с помощью метрик](https://github.com/IvanoVladimir/Marketing_metrics 'Ссылка на проект') | Оценка результатов двух прошедших рекламных кампаний с помощью метрик окупаемости инвестиций, средней стоимости заказа, удеражния пользователей, накопительной средней выручки на платящего пользователя и затрат на привлечение одного покупателя; расчёт этих метрик; построение графиков и дашборда | Python; Jupyter Notebook; PostgreSQL; Redash
+[Разведочный анализ данных видеоигр на сайте Metacritic](https://github.com/IvanoVladimir/EDA_VideoGames 'Ссылка на проект') | Cчитывание и предобработка данных; описательная статистика и построение визуализаций; изучение линейных и нелинейных взаимосвязей целевого признака с остальными переменными | Python – pandas, numpy, plotly, phik, os, re; Jupyter Notebook
 
 </details>
 
@@ -58,6 +59,7 @@
   <a href='https://pingouin-stats.org/build/html/index.html'><img src="https://pingouin-stats.org/build/html/_static/pingouin.png" title="Pingouin" alt="pingouin" width="45" height="45"/></a>
   <a href='https://seaborn.pydata.org/'><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="50" height="50"/></a>
   <a href='https://matplotlib.org/'><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="MatPlotLib" alt="matplotlib" width="45" height="45"/></a>
+  <a href='https://plotly.com/'><img src="https://i2.wp.com/miro.medium.com/1*jSzSsGQdJhcG7_PIH8eLag.png" title="Plotly" alt="Plotly" width="50" height="50"/></a>
 
 </a> <p align="left">
 
